@@ -1,5 +1,1 @@
-# Kubernetes Commands
-
-```
-kubectl get ns
-```
+# Basic Kubernetes Wordpress and Mysql config
